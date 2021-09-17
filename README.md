@@ -21,11 +21,72 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-v.13.3-blue.svg?style=rounded-square)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/Redis-v.6.2-red.svg?style=rounded-square)](https://redis.io/)
 
-## Project setup
-```
-npm install
-```
+## Feature
+- CRUD
+- ORM Sequelize
+- MVC Models
+- Search and Filter
+- Authentication and Authorization
+- Upload File (Image)
+- File Logging
+- Unit Testing
+- Integration Testing
 
-### Run
-```
-npm start
+## Installation Steps
+
+1. Clone the repository
+
+   ```bash
+    https://github.com/rizkazn/Blanja-Rest-API-PEN-Stacks/
+    ```
+
+2. Install dependencies
+
+   ```bash
+   npm install
+   ```
+
+3. Add .env file at root folder project
+
+   ```sh
+   DB_USERS = your_users_name
+   DB_HOST  = your_server_host
+   DB_NAME  = your_database_name
+   DB_TEST  = your_database_test_name
+   DB_PASS  = your_password
+   
+   JWT_KEYS = your_JWT_password_keys
+   
+   CLOUD_NAME = your_cloud_username
+   CLOUD_KEYS = your_cloud_keys
+   CLOUD_SECRETS = your_cloud_secrets
+   
+   REDIS_HOST = your_server_host
+   REDIS_PASS = your_redis_password
+   ```
+
+4. Test the app
+
+   ```bash
+   npm test
+   ```
+
+
+5. Run the app
+
+   ```bash
+   npm start
+   ```
+
+6. You are all set!
+
+   ```bash
+   Backend running at: http://localhost:9000
+   ```
+
+
+## Frontend Repository
+Frontend API : Blanja - Frontend [here](https://github.com/rizkazn/Blanja-Front-End-PERN-Stacks/)
+
+
+
