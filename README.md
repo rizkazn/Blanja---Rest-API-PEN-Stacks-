@@ -20,6 +20,10 @@
     <a href="https://github.com/rizkazn/Blanja-Rest-API-PEN-Stacks/pulls">Request Feature</a>
 </p>
 
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+Blanja web is an e-commerce platform, the features are similar to any other e-commerce services such as register new user (whether as seller/customer) and login with it. As a seller  you can add, delete and update the items you want to sell. As a customer you can buy some products, checkout the products, search and filter products what you've looking for. Built with React.Js on the Frontend, Node.Js and Express.Js on the Back end. 
 
 ## Built With
 
