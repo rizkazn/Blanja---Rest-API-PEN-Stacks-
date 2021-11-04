@@ -48,7 +48,7 @@ Blanja web is an e-commerce platform, the features are similar to any other e-co
 1. Clone the repository
 
    ```bash
-    https://github.com/rizkazn/Blanja-Rest-API-PEN-Stacks/
+    https://github.com/rizkazn/Blanja-Rest-API.git
     ```
 
 2. Install dependencies
@@ -97,7 +97,7 @@ Blanja web is an e-commerce platform, the features are similar to any other e-co
 
 
 ## Frontend Repository
-Frontend API : Blanja - Frontend [here](https://github.com/rizkazn/Blanja-Front-End-PERN-Stacks/)
+Frontend API : Blanja - Frontend [here](https://github.com/rizkazn/Blanja-Front-End)
 
 
 
