@@ -99,5 +99,9 @@ Blanja web is an e-commerce platform, the features are similar to any other e-co
 ## Frontend Repository
 Frontend API : Blanja - Frontend [here](https://github.com/rizkazn/Blanja-Front-End)
 
+## Endpoint
+
+See all the endpoint [here](https://documenter.getpostman.com/view/12011877/UVRDF5Ao)
+
 
 
